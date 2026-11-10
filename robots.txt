@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostal-sea-horse.vercel.app/sitemap.xml
